@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Library Management System - README</title>
+  
 </head>
 <body>
 
